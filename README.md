@@ -25,6 +25,6 @@
   - AWS Educate: Introduction to Generative AI  
   - ACTIC (Competencias TIC‑FP, nota 9.3)
 
-Me motiva aplicar y compartir lo aprendido a través de proyectos reales en mi GitHub, donde podrás ver despliegues, scripts y APIs que he desarrollado recientemente.
+**Me motiva aplicar y compartir lo aprendido a través de proyectos reales en mi GitHub, donde podrás ver despliegues, scripts y APIs que he desarrollado recientemente.**
 
 ---
