@@ -3,7 +3,7 @@
 
 **Administradora de Sistemas apasionada por la innovación tecnológica, actualmente cursando un Máster en Inteligencia Artificial, Cloud Computing y DevOps. Bienvenida/o a mi espacio: aquí descubrirás mis proyectos más relevantes, mi trayectoria profesional y mis últimas contribuciones.**
 
-[![LinkedIn–Conectar](https://img.shields.io/badge/LinkedIn–Conectar-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=violet)](https://www.linkedin.com/in/ana-belen-ballesteros-redondo) ![Followers](https://img.shields.io/github/followers/anabbre?style=flat&logo=github&logoColor=white&label=Followers&labelColor=black&color=violet) ![Profile views](https://komarev.com/ghpvc/?username=anabbre&style=flat&)
+[![LinkedIn–Conectar](https://img.shields.io/badge/LinkedIn–Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/ana-belen-ballesteros-redondo) ![Followers](https://img.shields.io/github/followers/anabbre?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=000000&color=violet) [![Visitantes](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anabbre&count_bg=%23EE82EE&title_bg=%23000000&icon=github.svg&icon_color=white&title=Visitantes&edge_flat=false)](https://github.com/anabbre)
 
 ---
 
@@ -25,7 +25,7 @@ Me motiva aplicar y compartir lo aprendido a través de proyectos reales en mi G
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tecnologias
 
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
