@@ -3,29 +3,21 @@
 
 **Administradora de Sistemas apasionada por la innovación tecnológica, actualmente cursando un Máster en Inteligencia Artificial, Cloud Computing y DevOps. Bienvenida/o a mi espacio: aquí descubrirás mis proyectos más relevantes, mi trayectoria profesional y mis últimas contribuciones.**
 
-[![LinkedIn–Conectar](https://img.shields.io/badge/LinkedIn–Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/ana-belen-ballesteros-redondo) ![Followers](https://img.shields.io/github/followers/anabbre?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=000000&color=violet) [![Visitantes](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanabbre&count_bg=%23EE82EE&title_bg=%23000000&icon=github.svg&icon_color=white&title=Visitantes&edge_flat=false)](https://github.com/anabbre)
+[![LinkedIn–Conectar](https://img.shields.io/badge/LinkedIn–Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=violet)](https://www.linkedin.com/in/ana-belen-ballesteros-redondo) ![Followers](https://img.shields.io/github/followers/anabbre?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=black&color=violet) <img src="https://komarev.com/ghpvc/?username=anabbre&style=flat&label=Profile%20views&color=8A2BE2" alt="Profile views" height="28">
 
 ---
 
 ## 👩‍💻 Sobre mí
 
-- 🎓 **Formación**  
-  - Máster en Inteligencia Artificial, Cloud Computing & DevOps — Pontia.tech (Mar 2025–Ene 2026)  
-  - Técnico Superior en Administración de Sistemas Informáticos en Red (CFGS ASIR) — UOC (Mar 2022–May 2024)  
-  - Diplomatura en Educación Social — Universidad Pablo de Olavide (Oct 2003–Jun 2006)  
-
-
-- ☁️ **Cloud & virtualización:** Azure & AWS, Docker, VMware.  
-- 🔧 **Automatización & scripting:** Terraform, Ansible, PowerShell, Active Directory.  
-- 🐍 **Desarrollo & APIs:** Python (FastAPI), C, C++, scripting Bash.
-- 📊 **Monitorización & MLOps:** Grafana, Prometheus, scikit‑learn, MLflow.  
-- 🤝 **Metodologías:** CI/CD con GitHub Actions, Scrum/Jira, documentación en Confluence.  
-
-Me motiva aplicar y compartir lo aprendido a través de proyectos reales en mi GitHub, donde podrás ver despliegues, scripts y APIs que he desarrollado recientemente.
+- 🚀 Administradora de Sistemas en transición a la especialización en IA, Cloud y DevOps (actualmente cursando un máster en Pontia.tech).
+- 🧩 Me gusta entender problemas reales y convertirlos en soluciones automatizadas y documentadas.  
+- 📚 Aprendiz constante: publico aquí mis prácticas, experimentos y pequeños “fails” que también enseñan.  
+- 🤝 Disfruto trabajar en equipo, comunicar claro y dejar todo lo más reproducible posible.  
+- 🎯 Objetivo: integrarme en un equipo IT donde seguir creciendo y aportar eficiencia, seguridad y calidad al ciclo de vida del software.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
