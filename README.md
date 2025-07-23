@@ -79,44 +79,57 @@
 
 <div align="center">
 
-<!-- 1 -->
-<details open>
-<summary><strong>🎲 JuegosdeMesa_API</strong></summary>
+### 🎲 <span style="font-size:1.25rem;">**JuegosdeMesa_API**</span>
 
 API CRUD de juegos de mesa con **FastAPI** + **MariaDB**.  
 Incluye despliegue con **Docker Compose**, documentación **Swagger/OpenAPI** y lógica de reintento de conexión.
 
-**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 🔗 **Repo:** [JuegosdeMesa_API](https://github.com/anabbre/JuegosdeMesa_API)
-</details>
+
+</div>
 
 ---
 
-<!-- 2 -->
-<details open>
-<summary><strong>🧪 pontia-mlops-tutorial-anabelen-ballesteros</strong></summary>
+<div align="center">
+
+### 🧪 <span style="font-size:1.25rem;">**pontia-mlops-tutorial-anabelen-ballesteros**</span>
 
 Implementación de un flujo **MLOps**: entrenamiento y despliegue de un modelo con **MLflow**, **GitHub Actions**, contenedores **Docker** y **Azure Container Instances**.
 
-**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+**Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 🔗 **Repo:** [pontia-mlops-tutorial-anabelen-ballesteros](https://github.com/anabbre/pontia-mlops-tutorial-anabelen-ballesteros)
-</details>
+
+</div>
 
 ---
 
-<!-- 3 -->
-<details open>
-<summary><strong>🏨 hotel-cancellation-prediction</strong></summary>
+<div align="center">
+
+### 🏨 <span style="font-size:1.25rem;">**hotel-cancellation-prediction**</span>
 
 Proyecto de **Machine/Deep Learning** para predecir cancelaciones de reserva de hotel. Incluye EDA, preprocesado (SMOTE), pipelines de *scikit-learn* y modelos (Logistic Regression, RandomForest, XGBoost, LightGBM…).
 
-**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+**Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 🔗 **Repo:** [hotel-cancellation-prediction](https://github.com/anabbre/hotel-cancellation-prediction)
-</details>
 
 </div>
+
 
 
