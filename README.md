@@ -3,7 +3,7 @@
 
 **Administradora de Sistemas apasionada por la innovación tecnológica, actualmente cursando un Máster en Inteligencia Artificial, Cloud Computing y DevOps. Bienvenida/o a mi espacio: aquí descubrirás mis proyectos más relevantes, mi trayectoria profesional y mis últimas contribuciones.**
 
-[![LinkedIn–Conectar](https://img.shields.io/badge/LinkedIn–Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=violet)](https://www.linkedin.com/in/ana-belen-ballesteros-redondo) ![Followers](https://img.shields.io/github/followers/anabbre?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=black&color=violet) <img src="https://komarev.com/ghpvc/?username=anabbre&style=flat&label=Profile%20views&color=8A2BE2" alt="Profile views" height="28">
+[![LinkedIn–Conectar](https://img.shields.io/badge/LinkedIn–Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=violet)](https://www.linkedin.com/in/ana-belén-ballesteros-redondo) ![Followers](https://img.shields.io/github/followers/anabbre?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=black&color=violet) <img src="https://komarev.com/ghpvc/?username=anabbre&style=flat&label=Profile%20views&color=8A2BE2" alt="Profile views" height="28">
 
 ---
 
@@ -131,5 +131,35 @@ Proyecto de **Machine/Deep Learning** para predecir cancelaciones de reserva de 
 
 </div>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- Estadísticas generales -->
+<img src="https://github-readme-stats.vercel.app/api?username=anabbre&show_icons=true&theme=tokyonight&locale=es" height="170" />
+
+<!-- Lenguajes más usados (sin Jupyter) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabbre&layout=compact&theme=tokyonight&hide=jupyter%20notebook&custom_title=Lenguajes%20más%20usados" height="170" />
+
+<!-- Racha de commits -->
+<img src="https://streak-stats.demolab.com?user=anabbre&theme=tokyonight&locale=es" height="170" />
+
+</div>
+
+---
+
+## 🎲 Fun facts
+
+- 🎮 Fan de los juegos de mesa (¡por eso nació mi API!).
+- 📷 Me gusta documentar procesos con capturas y gifs.
+- ☕ Café + scripting = combo perfecto.
+
+---
+
+## 📬 Contacto
 
 
+- 📧 **Email:** [anabbre@hotmail.com](mailto:anabbre@hotmail.com)
+- 💼 **LinkedIn:** [Ana Belén Ballesteros Redondo](https://www.linkedin.com/in/ana-belén-ballesteros-redondo)
