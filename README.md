@@ -19,22 +19,26 @@
 
 ## 🛠️ Technologies
 
-### 🧑‍💻 Languages
+### 🧑‍💻 Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧩 Frameworks & ML
+### 🧩 Frameworks, Data & ML
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### ☁️ Cloud & Virtualization
+### ☁️ Cloud, Containers & Virtualization
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### ⚙️ Infra & Automation
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -54,9 +58,65 @@
 ### 🗄️ Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🧰 Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<!-- Ejemplo de badge personalizado para Soporte Técnico -->
+![Soporte_Técnico](https://img.shields.io/badge/Soporte_T%C3%A9cnico-555555?style=for-the-badge&logo=headset&logoColor=white)
+
+
+---
+
+## 🚀 Proyectos destacados
+
+---
+
+<div align="center">
+
+<!-- 1 -->
+<details open>
+<summary><strong>🎲 JuegosdeMesa_API</strong></summary>
+
+API CRUD de juegos de mesa con **FastAPI** + **MariaDB**.  
+Incluye despliegue con **Docker Compose**, documentación **Swagger/OpenAPI** y lógica de reintento de conexión.
+
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+🔗 **Repo:** [JuegosdeMesa_API](https://github.com/anabbre/JuegosdeMesa_API)
+</details>
+
+---
+
+<!-- 2 -->
+<details open>
+<summary><strong>🧪 pontia-mlops-tutorial-anabelen-ballesteros</strong></summary>
+
+Implementación de un flujo **MLOps**: entrenamiento y despliegue de un modelo con **MLflow**, **GitHub Actions**, contenedores **Docker** y **Azure Container Instances**.
+
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+🔗 **Repo:** [pontia-mlops-tutorial-anabelen-ballesteros](https://github.com/anabbre/pontia-mlops-tutorial-anabelen-ballesteros)
+</details>
+
+---
+
+<!-- 3 -->
+<details open>
+<summary><strong>🏨 hotel-cancellation-prediction</strong></summary>
+
+Proyecto de **Machine/Deep Learning** para predecir cancelaciones de reserva de hotel. Incluye EDA, preprocesado (SMOTE), pipelines de *scikit-learn* y modelos (Logistic Regression, RandomForest, XGBoost, LightGBM…).
+
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+🔗 **Repo:** [hotel-cancellation-prediction](https://github.com/anabbre/hotel-cancellation-prediction)
+</details>
+
+</div>
+
+
