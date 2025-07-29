@@ -75,22 +75,20 @@
 
 ## 🚀 Proyectos destacados
 
----
 
 <div align="center">
 
-### 🎲 <span style="font-size:1.25rem;">**JuegosdeMesa_API**</span>
+### 🏨 <span style="font-size:1.25rem;">**hotel-cancellation-prediction**</span>
 
-API CRUD de juegos de mesa con **FastAPI** + **MariaDB**.  
-Incluye despliegue con **Docker Compose**, documentación **Swagger/OpenAPI** y lógica de reintento de conexión.
+Proyecto de **Machine/Deep Learning** para predecir cancelaciones de reserva de hotel. Incluye EDA, preprocesado (SMOTE), pipelines de *scikit-learn* y modelos (Logistic Regression, RandomForest, XGBoost, LightGBM…).
 
 **Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-🔗 **Repo:** [JuegosdeMesa_API](https://github.com/anabbre/JuegosdeMesa_API)
+🔗 **Repo:** [hotel-cancellation-prediction](https://github.com/anabbre/hotel-cancellation-prediction)
 
 </div>
 
@@ -117,21 +115,23 @@ Implementación de un flujo **MLOps**: entrenamiento y despliegue de un modelo c
 
 <div align="center">
 
-### 🏨 <span style="font-size:1.25rem;">**hotel-cancellation-prediction**</span>
+### 🎲 <span style="font-size:1.25rem;">**JuegosdeMesa_API**</span>
 
-Proyecto de **Machine/Deep Learning** para predecir cancelaciones de reserva de hotel. Incluye EDA, preprocesado (SMOTE), pipelines de *scikit-learn* y modelos (Logistic Regression, RandomForest, XGBoost, LightGBM…).
+API CRUD de juegos de mesa con **FastAPI** + **MariaDB**.  
+Incluye despliegue con **Docker Compose**, documentación **Swagger/OpenAPI** y lógica de reintento de conexión.
 
 **Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-🔗 **Repo:** [hotel-cancellation-prediction](https://github.com/anabbre/hotel-cancellation-prediction)
+🔗 **Repo:** [JuegosdeMesa_API](https://github.com/anabbre/JuegosdeMesa_API)
 
 </div>
 
 ---
+
 
 ## 📊 GitHub Analytics
 
