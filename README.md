@@ -158,6 +158,14 @@ Incluye despliegue con **Docker Compose**, documentación **Swagger/OpenAPI** y 
 
 ---
 
+## 🗺️ Roadmap  
+- ✅ Dominar FastAPI & Docker  
+- 🚀 Profundizar en Kubernetes: pods, servicios y operadores  
+- 🔜 Certificación Azure Administrator (AZ‑104)
+- 🤖 Explorar modelos de IA generativa (GPT, LLaMA) y aplicarlos en proyectos  
+
+---
+
 ## 📬 Contacto
 
 
