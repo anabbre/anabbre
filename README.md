@@ -1,7 +1,9 @@
 # ¡Hola, soy Ana Belén 👋
 ---
 
-**Administradora de Sistemas apasionada por la innovación tecnológica, actualmente cursando un Máster en Inteligencia Artificial, Cloud Computing y DevOps. Bienvenida/o a mi espacio: aquí descubrirás mis proyectos más relevantes, mi trayectoria profesional y mis últimas contribuciones.**
+Soy **Cloud Engineer Junior** en Sngular, con formación en Administración de Sistemas Informáticos.  
+Tras una etapa profesional previa en el ámbito social, decidí apostar por una vocación tecnológica que llevaba tiempo latente. Desde entonces, he centrado mi camino en el aprendizaje continuo y en adquirir experiencia en el área de sistemas, automatización e infraestructuras cloud.  
+Actualmente complemento mi desarrollo profesional con un máster especializado en Inteligencia Artificial, Cloud Computing y DevOps, lo que me está permitiendo tener una visión global y actualizada del sector IT.
 
 [![LinkedIn–Conectar](https://img.shields.io/badge/LinkedIn–Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=violet)](https://www.linkedin.com/in/ana-belén-ballesteros-redondo) ![Followers](https://img.shields.io/github/followers/anabbre?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=black&color=violet) <img src="https://komarev.com/ghpvc/?username=anabbre&style=flat&label=Profile%20views&color=8A2BE2" alt="Profile views" height="28">
 
@@ -9,11 +11,9 @@
 
 ## 👩‍💻 Sobre mí
 
-- 🚀 Administradora de Sistemas en transición a la especialización en IA, Cloud y DevOps (actualmente cursando un máster en Pontia.tech).
-- 🧩 Me gusta entender problemas reales y convertirlos en soluciones automatizadas y documentadas.  
-- 📚 Aprendiz constante: publico aquí mis prácticas, experimentos y pequeños “fails” que también enseñan.  
-- 🤝 Disfruto trabajar en equipo, comunicar claro y dejar todo lo más reproducible posible.  
-- 🎯 Objetivo: integrarme en un equipo IT donde seguir creciendo y aportar eficiencia, seguridad y calidad al ciclo de vida del software.
+🔧 Aquí encontrarás algunos de mis proyectos más relevantes, donde aplico lo que aprendo sobre automatización, infraestructura como código, CI/CD y machine learning.  
+📚 Me gusta documentar bien lo que hago, compartir lo que funciona (y lo que no) y construir soluciones reproducibles.  
+💬 Disfruto del trabajo en equipo, de aprender de otros y de seguir creciendo cada día como profesional IT.
 
 ---
 
