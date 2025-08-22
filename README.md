@@ -3,7 +3,7 @@
 
 Soy **Cloud Engineer Junior** en Sngular, con formación en Administración de Sistemas Informáticos.  
 Tras una etapa profesional previa en el ámbito social, decidí apostar por una vocación tecnológica que llevaba tiempo latente. Desde entonces, he centrado mi camino en el aprendizaje continuo y en adquirir experiencia en el área de sistemas, automatización e infraestructuras cloud.  
-Actualmente complemento mi desarrollo profesional con un máster especializado en Inteligencia Artificial, Cloud Computing y DevOps, lo que me está permitiendo tener una visión global y actualizada del sector IT.
+Actualmente complemento mi desarrollo profesional con un **Máster especializado en Inteligencia Artificial, Cloud Computing y DevOps**, lo que me está permitiendo tener una visión global y actualizada del sector IT.
 
 [![LinkedIn–Conectar](https://img.shields.io/badge/LinkedIn–Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=violet)](https://www.linkedin.com/in/ana-belén-ballesteros-redondo) ![Followers](https://img.shields.io/github/followers/anabbre?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=black&color=violet) <img src="https://komarev.com/ghpvc/?username=anabbre&style=flat&label=Profile%20views&color=8A2BE2" alt="Profile views" height="28">
 
