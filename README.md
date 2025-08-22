@@ -158,11 +158,12 @@ Incluye despliegue con **Docker Compose**, documentación **Swagger/OpenAPI** y 
 
 ---
 
-## 🗺️ Roadmap  
-- ✅ Dominar FastAPI & Docker  
-- 🚀 Profundizar en Kubernetes: pods, servicios y operadores  
-- 🔜 Certificación Azure Administrator (AZ‑104)
-- 🤖 Explorar modelos de IA generativa (GPT, LLaMA) y aplicarlos en proyectos  
+## 🧭 Roadmap (en progreso)  
+- 🐳 Mejorar mis skills con Docker & FastAPI.  
+- ☸️ Profundizar en Kubernetes (pods, servicios y operadores).  
+- 📜 Obtener certificación **Azure Administrator (AZ-104)**.  
+- 🤖 Explorar IA generativa (GPT, LLaMA...) y aplicarla en proyectos reales.  
+- 🚀 Consolidar experiencia práctica en CI/CD y monitorización en la nube.
 
 ---
 
