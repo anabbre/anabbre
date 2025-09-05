@@ -1,7 +1,7 @@
 # ¡Hola, soy Ana Belén 👋
 ---
 
-Soy **Cloud Engineer Junior** en Sngular, con formación en Administración de Sistemas Informáticos.  
+Soy **Cloud Engineering Junior** en Sngular, con formación en Administración de Sistemas Informáticos.  
 Tras una etapa profesional previa en el ámbito social, decidí apostar por una vocación tecnológica que llevaba tiempo latente. Desde entonces, he centrado mi camino en el aprendizaje continuo y en adquirir experiencia en el área de sistemas, automatización e infraestructuras cloud.  
 Actualmente complemento mi desarrollo profesional con un **Máster especializado en Inteligencia Artificial, Cloud Computing y DevOps**, lo que me está permitiendo tener una visión global y actualizada del sector IT.
 
