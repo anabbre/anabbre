@@ -76,6 +76,7 @@ Complemento mi experiencia profesional con formación continua en **Cloud Comput
 
 ## 🚀 Proyectos destacados
 
+
 ### ☁️ Cloud, DevOps & Infrastructure
 
 Durante mi experiencia profesional he trabajado en distintos proyectos cloud y de infraestructura, participando en tareas como:
@@ -89,6 +90,7 @@ Durante mi experiencia profesional he trabajado en distintos proyectos cloud y d
 - ⚙️ Automatización de tareas operativas y mejora de procesos orientados a conseguir infraestructuras más reproducibles y mantenibles.
 
 > 🔒 Los repositorios asociados a mi experiencia profesional son privados, por lo que este perfil recoge únicamente una descripción general de las tecnologías y áreas en las que he trabajado.
+
 
 
 ### 🧠 IA, Machine Learning & Development
