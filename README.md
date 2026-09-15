@@ -3,8 +3,11 @@
 ### ☁️ Cloud Engineer | DevOps & SRE---
 
 Soy **Cloud Engineer en Sngular**, con formación en **Administración de Sistemas Informáticos** y experiencia trabajando con infraestructuras y servicios cloud en entornos reales.
+
 Mi perfil está orientado a **Cloud, DevOps y SRE**, con experiencia en **AWS y Google Cloud Platform (GCP)**, automatización de infraestructura con **Terraform**, plataformas **Kubernetes**, contenedores y procesos de **CI/CD y GitOps**.
+
 En mi día a día trabajo con infraestructura como código, despliegues y promoción entre entornos, automatización, observabilidad, troubleshooting y gestión de servicios cloud, colaborando con equipos de desarrollo para construir y mantener plataformas fiables y reproducibles.
+
 Complemento mi experiencia profesional con formación continua en **Cloud Computing, DevOps e Inteligencia Artificial**, manteniendo una base técnica sólida y una visión amplia del ecosistema IT.
 
 [![LinkedIn–Conectar](https://img.shields.io/badge/LinkedIn–Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=violet)](https://www.linkedin.com/in/ana-belén-ballesteros-redondo) ![Followers](https://img.shields.io/github/followers/anabbre?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=black&color=violet) <img src="https://komarev.com/ghpvc/?username=anabbre&style=flat&label=Profile%20views&color=8A2BE2" alt="Profile views" height="28">
