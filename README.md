@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ana Belén 👋
 
-### ☁️ Cloud Engineer | DevOps & SRE---
+### ☁️ Cloud Engineer | DevOps & SRE
 
 Soy **Cloud Engineer en Sngular**, con formación en **Administración de Sistemas Informáticos** y experiencia trabajando con infraestructuras y servicios cloud en entornos reales.
 
@@ -68,8 +68,6 @@ Complemento mi experiencia profesional con formación continua en **Cloud Comput
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<!-- Ejemplo de badge personalizado para Soporte Técnico -->
-![Soporte_Técnico](https://img.shields.io/badge/Soporte_T%C3%A9cnico-555555?style=for-the-badge&logo=headset&logoColor=white)
 
 
 ---
@@ -96,7 +94,7 @@ Durante mi experiencia profesional he trabajado en distintos proyectos cloud y d
 
 ### 🧠 IA, Machine Learning & Development
 
-Estos proyectos forman parte de mi formación y de mi experiencia previa en desarrollo, Machine Learning y MLOps.
+Estos proyectos forman parte de mi formación y experiencia en desarrollo, Machine Learning y MLOps, y reflejan una parte importante de mi evolución técnica.
 
 <div align="center">
 
