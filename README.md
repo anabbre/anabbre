@@ -193,3 +193,4 @@ Incluye despliegue con **Docker Compose**, documentación **Swagger/OpenAPI** y 
 
 - 📧 **Email:** [anabbre@hotmail.com](mailto:anabbre@hotmail.com)
 - 💼 **LinkedIn:** [Ana Belén Ballesteros Redondo](https://www.linkedin.com/in/ana-belén-ballesteros-redondo)
+
