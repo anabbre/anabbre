@@ -1,71 +1,69 @@
-# ¡Hola, soy Ana Belén 👋
----
+# ¡Hola! Soy Ana Belén 👋
 
-Soy **Cloud Engineering Junior** en Sngular, con formación en Administración de Sistemas Informáticos.  
-Tras una etapa profesional previa en el ámbito social, decidí apostar por una vocación tecnológica que llevaba tiempo latente. Desde entonces, he centrado mi camino en el aprendizaje continuo y en adquirir experiencia en el área de sistemas, automatización e infraestructuras cloud.  
-Actualmente complemento mi desarrollo profesional con un **Máster especializado en Inteligencia Artificial, Cloud Computing y DevOps**, lo que me está permitiendo tener una visión global y actualizada del sector IT.
+### ☁️ Cloud Engineer | DevOps & SRE---
+
+Soy **Cloud Engineer en Sngular**, con formación en **Administración de Sistemas Informáticos** y experiencia trabajando con infraestructuras y servicios cloud en entornos reales.
+Mi perfil está orientado a **Cloud, DevOps y SRE**, con experiencia en **AWS y Google Cloud Platform (GCP)**, automatización de infraestructura con **Terraform**, plataformas **Kubernetes**, contenedores y procesos de **CI/CD y GitOps**.
+En mi día a día trabajo con infraestructura como código, despliegues y promoción entre entornos, automatización, observabilidad, troubleshooting y gestión de servicios cloud, colaborando con equipos de desarrollo para construir y mantener plataformas fiables y reproducibles.
+Complemento mi experiencia profesional con formación continua en **Cloud Computing, DevOps e Inteligencia Artificial**, manteniendo una base técnica sólida y una visión amplia del ecosistema IT.
 
 [![LinkedIn–Conectar](https://img.shields.io/badge/LinkedIn–Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=violet)](https://www.linkedin.com/in/ana-belén-ballesteros-redondo) ![Followers](https://img.shields.io/github/followers/anabbre?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=black&color=violet) <img src="https://komarev.com/ghpvc/?username=anabbre&style=flat&label=Profile%20views&color=8A2BE2" alt="Profile views" height="28">
 
 ---
 
-## 👩‍💻 Sobre mí
-
-🔧 Aquí encontrarás algunos de mis proyectos más relevantes, donde aplico lo que aprendo sobre automatización, infraestructura como código, CI/CD y machine learning.  
-📚 Me gusta documentar bien lo que hago, compartir lo que funciona (y lo que no) y construir soluciones reproducibles.  
-💬 Disfruto del trabajo en equipo, de aprender de otros y de seguir creciendo cada día como profesional IT.
-
----
-
 ## 🛠️ Technologies
 
-### 🧑‍💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### 🧩 Frameworks, Data & ML
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-### ☁️ Cloud, Containers & Virtualization
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### ☁️ Cloud, Containers & Orchestration
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-### ⚙️ Infra & Automation
+### 🏗️ Infrastructure as Code & Automation
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Active%20Directory](https://img.shields.io/badge/Active_Directory-0067B8?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### 🚀 CI/CD & Collaboration
+### 🚀 CI/CD & GitOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-### 📈 Monitoring
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+### 📊 Observability & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🧠 Development, Data & ML
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🗄️ Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧰 Tools & IDEs
+### 🤝 Collaboration & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <!-- Ejemplo de badge personalizado para Soporte Técnico -->
 ![Soporte_Técnico](https://img.shields.io/badge/Soporte_T%C3%A9cnico-555555?style=for-the-badge&logo=headset&logoColor=white)
