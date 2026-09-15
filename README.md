@@ -73,6 +73,24 @@ Complemento mi experiencia profesional con formación continua en **Cloud Comput
 
 ## 🚀 Proyectos destacados
 
+### ☁️ Cloud, DevOps & Infrastructure
+
+Durante mi experiencia profesional he trabajado en distintos proyectos cloud y de infraestructura, participando en tareas como:
+
+- ☸️ Gestión y mantenimiento de plataformas **Kubernetes** sobre **AWS EKS y Google GKE**, trabajando con workloads, addons, configuración y troubleshooting.
+- 🏗️ Creación y evolución de infraestructura mediante **Terraform**, aplicando Infrastructure as Code en entornos AWS y GCP.
+- 🔄 Diseño y mantenimiento de procesos **CI/CD y GitOps** con GitHub Actions, GitLab CI/CD y Argo CD, incluyendo promoción de aplicaciones entre entornos.
+- 🐳 Contenerización y despliegue de aplicaciones mediante **Docker**, Kubernetes y servicios gestionados de contenedores.
+- 📊 Configuración de **monitorización, métricas y alertas**, trabajando con observabilidad y diagnóstico de incidencias.
+- 🔐 Trabajo con **IAM, networking y seguridad cloud**, incluyendo gestión de accesos, identidades de workloads y protección de aplicaciones.
+- ⚙️ Automatización de tareas operativas y mejora de procesos orientados a conseguir infraestructuras más reproducibles y mantenibles.
+
+> 🔒 Los repositorios asociados a mi experiencia profesional son privados, por lo que este perfil recoge únicamente una descripción general de las tecnologías y áreas en las que he trabajado.
+
+
+### 🧠 IA, Machine Learning & Development
+
+Estos proyectos forman parte de mi formación y de mi experiencia previa en desarrollo, Machine Learning y MLOps.
 
 <div align="center">
 
@@ -156,17 +174,18 @@ Incluye despliegue con **Docker Compose**, documentación **Swagger/OpenAPI** y 
 
 ---
 
-## 🧭 Roadmap (en progreso)  
-- 🐳 Mejorar mis skills con Docker & FastAPI.  
-- ☸️ Profundizar en Kubernetes (pods, servicios y operadores).  
-- 📜 Obtener certificación **Azure Administrator (AZ-104)**.  
-- 🤖 Explorar IA generativa (GPT, LLaMA...) y aplicarla en proyectos reales.  
-- 🚀 Consolidar experiencia práctica en CI/CD y monitorización en la nube.
+## 🧭 Roadmap
+
+- ☸️ Profundizar en **Kubernetes**, especialmente administración, troubleshooting y operación de clusters.
+- 🔄 Seguir avanzando en **GitOps y CI/CD**, automatizando despliegues y promoción entre entornos.
+- 🏗️ Consolidar conocimientos de **Infrastructure as Code con Terraform** en AWS y GCP.
+- 📊 Profundizar en **observabilidad, monitorización y alerting** orientados a la fiabilidad de los servicios.
+- 🔐 Ampliar conocimientos de **cloud networking, IAM y seguridad**.
+- 🚀 Seguir evolucionando profesionalmente hacia **DevOps & SRE**.
 
 ---
 
 ## 📬 Contacto
-
 
 - 📧 **Email:** [anabbre@hotmail.com](mailto:anabbre@hotmail.com)
 - 💼 **LinkedIn:** [Ana Belén Ballesteros Redondo](https://www.linkedin.com/in/ana-belén-ballesteros-redondo)
